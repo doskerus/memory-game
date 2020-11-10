@@ -1,0 +1,18 @@
+body {
+	background-color: linen;
+}
+
+h1 {
+	font-family: Arial;
+	color: darkslategray;
+	text-align: center;
+}
+
+#game div {
+	border: 10px solid lightslategray;
+	border-radius: 20px;
+	width: 15%;
+	height: 200px;
+	margin: 10px;
+	display: inline-block;
+}
